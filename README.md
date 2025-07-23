@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lockedw&label=Profile%20views&color=0e75b6&style=flat" alt="lockedw" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=lockedw)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lockedw)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Simple Jobfinder App**
 
